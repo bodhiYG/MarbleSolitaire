@@ -28,27 +28,6 @@ As a result, the full commit history from the original repository is not reflect
 
 ---
 
-## Project Structure
-
-cs3500/
-marblesolitaire/
-model/
-hw02/
-MarbleSolitaireModel.java # Interface for game logic
-MarbleSolitaireModelState.java # Read-only game state interface
-EnglishSolitaireModel.java # English board implementation
-EuropeanSolitaireModel.java # European board (diagonal moves)
-TriangleSolitaireModel.java # Triangle board implementation
-view/
-MarbleSolitaireView.java # Interface for textual views
-MarbleSolitaireTextView.java # Console-based view
-MarbleSolitairePanel.java # Swing panel for GUI rendering
-controller/
-MarbleSolitaireController.java # Controller interface
-MarbleSolitaireGUIController.java # GUI controller for handling clicks
-
----
-
 ## How to Play
 
 1. **Start the program** with a desired board type.
