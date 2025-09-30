@@ -1,4 +1,4 @@
-package cs3500.marblesolitaire.model.hw02;
+package cs3500.marblesolitaire.model;
 import java.util.*;
 
 public class EnglishSolitaireModel implements MarbleSolitaireModel {

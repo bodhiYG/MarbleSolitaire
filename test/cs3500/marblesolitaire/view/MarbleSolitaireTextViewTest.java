@@ -2,7 +2,7 @@ package cs3500.marblesolitaire.view;
 
 import static org.junit.Assert.*;
 
-import cs3500.marblesolitaire.model.hw02.EnglishSolitaireModel;
+import cs3500.marblesolitaire.model.EnglishSolitaireModel;
 import cs3500.marblesolitaire.view.MarbleSolitaireTextView;
 import cs3500.marblesolitaire.view.MarbleSolitaireView;
 import org.junit.Before;

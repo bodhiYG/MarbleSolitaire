@@ -1,4 +1,4 @@
-package cs3500.marblesolitaire.model.hw02;
+package cs3500.marblesolitaire.model;
 
 /**
  * This interface represents the operations offered by the marble solitaire

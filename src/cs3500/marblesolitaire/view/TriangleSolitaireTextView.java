@@ -1,7 +1,7 @@
 package cs3500.marblesolitaire.view;
 
 import cs3500.marblesolitaire.controller.ControllerFeatures;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelState;
+import cs3500.marblesolitaire.model.MarbleSolitaireModelState;
 import java.io.IOException;
 
 /**

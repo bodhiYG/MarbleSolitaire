@@ -8,7 +8,7 @@ import java.io.IOException;
 import javax.swing.*;
 
 import cs3500.marblesolitaire.controller.ControllerFeatures;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelState;
+import cs3500.marblesolitaire.model.MarbleSolitaireModelState;
 
 /**
  * This class represents a GUI view that is implemented using Java

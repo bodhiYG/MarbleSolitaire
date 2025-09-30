@@ -1,4 +1,4 @@
-package cs3500.marblesolitaire.model.hw02;
+package cs3500.marblesolitaire.model;
 
 /**
  * This interface represents operations that can be used to monitor the state of a marble solitaire
