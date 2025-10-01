@@ -2,8 +2,8 @@
 
 A Java implementation of the classic **Marble Solitaire** game with support for multiple board variations and a GUI interface.
 
-This repository was re-created after being mistakenly pushed to the wrong GitHub account.  
-As a result, the full commit history from the original repository is not reflected here.
+**This repository was re-created after being mistakenly pushed to the wrong GitHub account.  
+As a result, the full commit history from the original repository is not reflected here.**
 
 ---
 
